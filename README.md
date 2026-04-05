@@ -67,5 +67,6 @@ Isadora Basso Asseiro - RM 569323
 Gabriel Brito Braga - RM 570467
 Delvane Sousa Sampaio Oliveira - RM 571825
 
-Link GitHub Pages:
+Link GitHub Page:
 
+https://fiap-engenharia-de-software.github.io/cp1-git-e-github-opticode/
